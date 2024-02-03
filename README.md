@@ -3,7 +3,7 @@
 Impact of Backward Crosstalk in 2x2 MIMO Transmitters on NMSE and Spectral Efficiency
 ==================
 
-This is a code package is related to the follow scientific article:
+This code package is related to the following scientific article:
 
 Peter Händel, Özlem Tugfe Demir, Emil Björnson, Daniel Rönnow, “[Impact of Backward Crosstalk in 2x2 MIMO Transmitters on NMSE and Spectral Efficiency](https://arxiv.org/pdf/1912.08528.pdf),” IEEE Transactions on Communications, vol. 68, no. 7, pp. 4277-4292, July 2020.
 
